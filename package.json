@@ -1,0 +1,10 @@
+{
+  "name": "dext-default-theme",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": ["dext", "dext-theme"],
+  "main": "index.json",
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
