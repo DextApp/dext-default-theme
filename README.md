@@ -1,5 +1,5 @@
 # dext-github-plugin
-
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 > The [Dext](https://github.com/vutran/dext) default theme.
 
 ![](screenshot.gif?raw=true)
